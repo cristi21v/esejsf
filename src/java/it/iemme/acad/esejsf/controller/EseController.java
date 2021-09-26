@@ -1,12 +1,10 @@
 package it.iemme.acad.esejsf.controller;
 
 import it.iemme.acad.esejsf.services.Servizio;
-import it.iemme.acad.esejsf.services.ServizioImpl;
 import it.iemme.acad.esejsf.utils.ListaFormModel;
 import it.iemme.acad.esejsf.utils.Utilities;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ManagedProperty;
-import lombok.Data;
 
 
 @ManagedBean(name="eseController")
